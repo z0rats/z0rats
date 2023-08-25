@@ -4,4 +4,4 @@
 
 - posting some stuff in [telegram🎙](https://t.me/mevsinternet) (mostly in russian)
 
-- how to find me: [💌📫](mailto:z0rats@proton.me)
+- how to reach me: [💌📫](mailto:z0rats@proton.me)
