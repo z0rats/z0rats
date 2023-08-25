@@ -1,10 +1,7 @@
-### Hi there 👋
+**hi there 👋**
 
+- i'm a developer mostly interested in crypto/web3 projects
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: z0rats@proton.me
-<!-- - ⚡ Fun fact: ... -->
+- posting some stuff in [telegram🎙](https://t.me/mevsinternet) (mostly in russian)
+
+- how to find me: [💌📫](mailto:z0rats@proton.me)
