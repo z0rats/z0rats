@@ -4,8 +4,8 @@
 
 - currently working on [Rivo](https://rivo.xyz)
 
-- posting in [telegram🎙](https://t.me/mevsinternet) things that i am currently studying, ru/en
+- my [telegram blog🎙](https://t.me/mevsinternet) (ru)
 
-- reach me: [💌📫](mailto:z0rats@proton.me)
+- reach me: [💌📫](mailto:z0rats.alex@gmail.com)
 
 - [habr 🛸](https://habr.com/ru/users/soanyway/publications/articles/)
