@@ -4,8 +4,8 @@
 
 - currently building [Rivo](https://rivo.xyz)
 
-- mail: [💌📫](mailto:z0rats.alex@gmail.com)
+- mail: [💌 📫](mailto:z0rats.alex@gmail.com)
 
-- [tg blog🎙](https://t.me/mevsinternet)
+- [tg blog 🎙](https://t.me/mevsinternet)
 
 - [habr 🛸](https://habr.com/ru/users/soanyway/publications/articles/)
