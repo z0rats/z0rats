@@ -2,7 +2,7 @@
 
 - i'm a developer mostly interested in crypto/web3 projects
 
-- currently building [Rivo](https://app.rivo.xyz)
+- ex [Rivo](https://app.rivo.xyz)
 
 - mail: [💌 📫](mailto:z0rats.alex@gmail.com)
 
